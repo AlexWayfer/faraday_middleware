@@ -19,7 +19,7 @@ group :test do
   gem 'addressable', '< 2.4'
   gem 'rspec', '>= 3'
   gem 'simplecov', '~> 0.12.0'
-  gem 'webmock', '~> 2.3'
+  gem 'webmock', '~> 3.14'
 end
 
 group :lint do
