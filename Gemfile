@@ -12,7 +12,7 @@ group :development do
   gem 'rake', '>= 12.3.3'
   gem 'rash_alt', '>= 0.4.3'
   gem 'safe_yaml'
-  gem 'simple_oauth', '>= 0.1', '< 0.3'
+  gem 'simple_oauth', '>= 0.1', '<= 0.3.1'
 end
 
 group :test do
