@@ -18,7 +18,7 @@ end
 group :test do
   gem 'addressable', '< 2.4'
   gem 'rspec', '>= 3'
-  gem 'simplecov', '~> 0.12.0'
+  gem 'simplecov', '~> 1.3.2'
   gem 'webmock', '~> 2.3'
 end
 
